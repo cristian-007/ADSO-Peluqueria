@@ -1,0 +1,19 @@
+{
+  "name": "apipeluqueria",
+  "version": "1.0.0",
+  "main": "peluqueria.js",
+  "scripts": {
+    "dev": "node --watch peluqueria.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "mysql2": "^3.24.5"
+  }
+}
