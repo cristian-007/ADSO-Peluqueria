@@ -1,2 +1,2 @@
 # Peluqueria-SENA
-Clase
+Clase 12-09-2026
